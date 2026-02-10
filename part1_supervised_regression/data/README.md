@@ -1,10 +1,8 @@
-## Data
+## Processed Data
 
-This project uses the House Prices dataset (Kaggle).
-
-Raw data is not included in the repository.
-Instead, this folder includes processed data and/or small samples used in the analysis.
+This folder contains datasets generated after preprocessing and feature engineering.
 
 ### Files
-- `x_test_processed_data.csv` – processed test features after cleaning and feature engineering
-
+- `x_train_processed_data.csv` – processed training features
+- `y_train_processed_data.csv` – target variable for training
+- `x_test_processed_data.csv` – processed test features used for inference
