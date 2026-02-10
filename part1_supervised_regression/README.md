@@ -1,16 +1,14 @@
+# Part 1 – Supervised Learning (House Price Prediction)
 
-# Part 1 – House Price Prediction (Supervised Learning)
+## Goal
+Train regression models to predict house prices and evaluate performance using MAE.
 
-## Objective
-Predict house prices using regression models and compare performance using MAE.
+## Workflow
+- Data exploration and EDA
+- Handling missing values and outliers
+- Feature engineering (added new features)
+- Training + hyperparameter optimization
+- Explainability using SHAP and LIME
 
-## Key Steps
-1. Data exploration + EDA
-2. Missing values & outliers handling
-3. Feature engineering
-4. Model training + hyperparameter optimization
-5. Explainability (SHAP & LIME)
-
-## Output
-Trained model + evaluation summary + insights.
-
+## Notebook
+See: `notebooks/part1_supervised_regression.ipynb`
